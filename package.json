@@ -1,0 +1,12 @@
+{
+  "name": "angular-events",
+  "version": "0.0.1",
+  "description": "Angular events directives",
+  "main": "main.js",
+  "keywords": [
+    "angular",
+    "directives"
+  ],
+  "author": "Colin Kahn",
+  "license": "ISC"
+}
